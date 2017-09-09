@@ -1,4 +1,5 @@
 # Automatic-Fare-Collection-System-For-Buses
+Refer the given PDF for more Project information
 
 ## Prerequisite
 Android Mobile App [Wireless Barcode Scanner](https://play.google.com/store/apps/details?id=hk.com.nexinno.barcodegun&hl=en)
