@@ -6,7 +6,7 @@ Android Mobile App [Wireless Barcode Scanner](https://play.google.com/store/apps
 Pc client (http://vvscanner.vvfun.com/download/vvscanner.zip)
 C Compiler (Dev C++ is Preferred)
 
-## Steps
+## Usage
 
 1) Run the PC client (make sure it has internet access)
 
